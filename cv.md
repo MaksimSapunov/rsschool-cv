@@ -16,6 +16,7 @@ console.log('Hello World!');
 
 ## Experience
 * Strada
+* Tinkoff
 
 ## Education
 Higher technical education and school 
